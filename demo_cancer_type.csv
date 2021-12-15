@@ -1,0 +1,13 @@
+type,n,percent
+Lung,58,25.66
+"Pancreas, liver, and biliary",33,14.6
+Colorectal,29,12.83
+"Bladder, kidney",22,9.73
+Breast,19,8.41
+"Ovarian, endometrial, uterine",15,6.64
+"Head, neck,  throat",13,5.75
+"Gastric, esophageal",11,4.87
+Prostate,11,4.87
+Sarcoma ,6,2.65
+Melanoma,2,0.88
+Other,7,3.1
